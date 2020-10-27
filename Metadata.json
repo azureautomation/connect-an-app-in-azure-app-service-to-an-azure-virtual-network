@@ -1,0 +1,20 @@
+{
+    "Author": "Cephas Lin",
+    "ContentSize": 18599,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-an-app-in-azure-app-service-to-an-azure-virtual-network/master/V2VnetAllInOne.ps1",
+    "DownloadCount": 3029,
+    "Id": "Connect-an-app-in-Azure-ab7527e3",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 53,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-12-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Not Defined",
+    "Summary": "In Azure App Service, you can connect your app (web, mobile, or API) to an Azure virtual network (VNet) in your subscription.\u00a0This script helps enable VNet integration by using PowerShell.This script completes the following tasks:Create a Resource Manager virtual network and in",
+    "Title": "Connect an app in Azure App Service to an Azure Virtual Network",
+    "UpdatedDate": "2018-1-31T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-an-app-in-azure-app-service-to-an-azure-virtual-network",
+    "UserTags": ""
+}
